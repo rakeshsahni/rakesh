@@ -1,0 +1,40 @@
+.social{
+    padding: 85px 1rem 70px 1rem;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 4rem;
+}
+
+.social-box{
+    box-shadow: 6px 5px 13px black;
+    padding: 2rem 0px 1rem 0px;
+    border-radius: 20px;
+}
+
+.social-box a{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.social-box h1{
+    text-align: center;
+    padding: 2rem 0px;
+}
+
+.adjust-img{
+    width: 30%;
+}
+
+.adjust-img:hover{
+    transform: scale(1.04);
+    transition: 1s ease-in;
+}
+
+@media only Screen and (max-width: 500px){
+    .social{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
