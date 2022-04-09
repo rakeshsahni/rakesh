@@ -21,6 +21,13 @@
     color: rgba(195,142,78);
 }
 
+.mldl{
+    font-size: 1.8rem;
+    color: rgba(255, 255, 255, 0.8);
+    font-style: italic;
+}
+
+
 .o-info{
     color: rgba(65,63,163);
 }

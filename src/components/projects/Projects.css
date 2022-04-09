@@ -22,8 +22,13 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
     gap: 1rem;
     font-weight: bold;
+}
+
+.card-content h1{
+    text-align: center;
 }
 
 .card-content p{

@@ -1,18 +1,19 @@
 import imgApp from './../../images/img-app.png';
 import quoteApp from './../../images/quote.png';
 // import spanApp from './../../images/spam.png';
-import navApp from './../../images/res-nav.png';
+import bike_predictor from './../../images/bike_predictor.png';
 import ticTacToe from './../../images/tic-tac-web.png';
 
 export const projectData = [
     {
-        id : '1',
-        title : 'Image App',
-        content : 'This is MERN App in which we are able to create profile, add, update, delete, like, comment on the images.',
-        img : imgApp,
-        seeLive : 'https://rakeshmernapp.herokuapp.com/',
-        github : 'https://github.com/rakeshsahni/first-full-MERN-image-app',
+        id : '3',
+        title : 'Bike Price Predictor',
+        content : "This project tells what should the price of Indian selling 2nd Bike. Model prediction almost beats bike price on olx.in, droom.in.",
+        img : bike_predictor,
+        seeLive : 'https://predict-bike-price.herokuapp.com/',
+        github : 'https://github.com/rakeshsahni/bike-price-predictor',
     },
+    
     {
         id : '2',
         title : 'Tic Tac Toe',
@@ -22,14 +23,6 @@ export const projectData = [
         github : 'https://github.com/rakeshsahni/tic-tac-web/tree/master',
     },
     {
-        id : '3',
-        title : 'Nice Navbar',
-        content : "This is Responsive Navbar in all devices build in React Js. This is build in own CSS.",
-        img : navApp,
-        seeLive : 'https://rakeshsahni.github.io/responsive-nav-footer/',
-        github : 'https://github.com/rakeshsahni/responsive-nav-footer',
-    },
-    {
         id : '4',
         title : 'Quote App',
         content : "This is build on React in which we can see all famous Quotes. We use An API.",
@@ -37,4 +30,12 @@ export const projectData = [
         seeLive : 'https://rakeshsahni.github.io/Quote-App/',
         github : 'https://github.com/rakeshsahni/Quote-App',
     },
+    {
+        id : '1',
+        title : 'Image App',
+        content : 'This is MERN App in which we are able to create profile, add, update, delete, like, comment on the images.',
+        img : imgApp,
+        seeLive : 'https://rakeshmernapp.herokuapp.com/',
+        github : 'https://github.com/rakeshsahni/first-full-MERN-image-app',
+    }
 ]
