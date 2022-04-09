@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/rakesh/static/css/main.6f8c6e21.chunk.css",
-    "main.js": "/rakesh/static/js/main.67826efc.chunk.js",
-    "main.js.map": "/rakesh/static/js/main.67826efc.chunk.js.map",
+    "main.css": "/rakesh/static/css/main.da0e00ae.chunk.css",
+    "main.js": "/rakesh/static/js/main.7976d496.chunk.js",
+    "main.js.map": "/rakesh/static/js/main.7976d496.chunk.js.map",
     "runtime-main.js": "/rakesh/static/js/runtime-main.a061aa17.js",
     "runtime-main.js.map": "/rakesh/static/js/runtime-main.a061aa17.js.map",
     "static/js/2.e6565df8.chunk.js": "/rakesh/static/js/2.e6565df8.chunk.js",
     "static/js/2.e6565df8.chunk.js.map": "/rakesh/static/js/2.e6565df8.chunk.js.map",
     "index.html": "/rakesh/index.html",
-    "static/css/main.6f8c6e21.chunk.css.map": "/rakesh/static/css/main.6f8c6e21.chunk.css.map",
+    "static/css/main.da0e00ae.chunk.css.map": "/rakesh/static/css/main.da0e00ae.chunk.css.map",
     "static/js/2.e6565df8.chunk.js.LICENSE.txt": "/rakesh/static/js/2.e6565df8.chunk.js.LICENSE.txt",
     "static/media/Resume.2d9e5160.pdf": "/rakesh/static/media/Resume.2d9e5160.pdf",
+    "static/media/bike_predictor.581aab05.png": "/rakesh/static/media/bike_predictor.581aab05.png",
     "static/media/gfg.34c15fbe.png": "/rakesh/static/media/gfg.34c15fbe.png",
     "static/media/img-app.d02bed16.png": "/rakesh/static/media/img-app.d02bed16.png",
     "static/media/my-photo.53e6aba3.png": "/rakesh/static/media/my-photo.53e6aba3.png",
@@ -20,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.a061aa17.js",
     "static/js/2.e6565df8.chunk.js",
-    "static/css/main.6f8c6e21.chunk.css",
-    "static/js/main.67826efc.chunk.js"
+    "static/css/main.da0e00ae.chunk.css",
+    "static/js/main.7976d496.chunk.js"
   ]
 }
