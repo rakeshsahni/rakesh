@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rakesh/static/css/main.da0e00ae.chunk.css",
-    "main.js": "/rakesh/static/js/main.7976d496.chunk.js",
-    "main.js.map": "/rakesh/static/js/main.7976d496.chunk.js.map",
+    "main.js": "/rakesh/static/js/main.27cb7de4.chunk.js",
+    "main.js.map": "/rakesh/static/js/main.27cb7de4.chunk.js.map",
     "runtime-main.js": "/rakesh/static/js/runtime-main.a061aa17.js",
     "runtime-main.js.map": "/rakesh/static/js/runtime-main.a061aa17.js.map",
     "static/js/2.e6565df8.chunk.js": "/rakesh/static/js/2.e6565df8.chunk.js",
@@ -16,12 +16,13 @@
     "static/media/img-app.d02bed16.png": "/rakesh/static/media/img-app.d02bed16.png",
     "static/media/my-photo.53e6aba3.png": "/rakesh/static/media/my-photo.53e6aba3.png",
     "static/media/quote.58219d59.png": "/rakesh/static/media/quote.58219d59.png",
+    "static/media/spamham.4da5561f.png": "/rakesh/static/media/spamham.4da5561f.png",
     "static/media/tic-tac-web.66c07822.png": "/rakesh/static/media/tic-tac-web.66c07822.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a061aa17.js",
     "static/js/2.e6565df8.chunk.js",
     "static/css/main.da0e00ae.chunk.css",
-    "static/js/main.7976d496.chunk.js"
+    "static/js/main.27cb7de4.chunk.js"
   ]
 }
