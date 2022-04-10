@@ -1,6 +1,6 @@
 import imgApp from './../../images/img-app.png';
 import quoteApp from './../../images/quote.png';
-// import spanApp from './../../images/spam.png';
+import spamApp from './../../images/spamham.png';
 import bike_predictor from './../../images/bike_predictor.png';
 import ticTacToe from './../../images/tic-tac-web.png';
 
@@ -14,6 +14,15 @@ export const projectData = [
         github : 'https://github.com/rakeshsahni/bike-price-predictor',
     },
     
+    {
+        id : '5',
+        title : 'Email Spam Classifier',
+        content : "This project tells us a text which is Ham or Spam. Means to aware spam type text so that we will serious.",
+        img : spamApp,
+        seeLive : 'https://detect-msg.herokuapp.com/',
+        github : 'https://github.com/rakeshsahni/nlp-detect-msg',
+    },
+
     {
         id : '2',
         title : 'Tic Tac Toe',
