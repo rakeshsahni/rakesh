@@ -1,5 +1,5 @@
 import imgApp from './../../images/img-app.png';
-import quoteApp from './../../images/quote.png';
+import IPL from './../../images/ipl-dashboard.png';
 import spamApp from './../../images/spamham.png';
 import bike_predictor from './../../images/bike_predictor.png';
 import ticTacToe from './../../images/tic-tac-web.png';
@@ -12,6 +12,14 @@ export const projectData = [
         img : bike_predictor,
         seeLive : 'https://predict-bike-price.herokuapp.com/',
         github : 'https://github.com/rakeshsahni/bike-price-predictor',
+    },
+    {
+        id : '4',
+        title : 'IPL DashBoard',
+        content : "This is a IPL dashboard in which we can see all top Stats of IPL History 2008/09-2021. I have useed Kaggel dataset to build this dashboard.",
+        img : IPL,
+        seeLive : 'https://ipl-dashbord.herokuapp.com/',
+        github : 'https://github.com/rakeshsahni/Quote-Apphttps://github.com/rakeshsahni/IPL-DashBord',
     },
     
     {
@@ -30,14 +38,6 @@ export const projectData = [
         img : ticTacToe,
         seeLive : 'https://rakeshsahni.github.io/tic-tac-web/',
         github : 'https://github.com/rakeshsahni/tic-tac-web/tree/master',
-    },
-    {
-        id : '4',
-        title : 'Quote App',
-        content : "This is build on React in which we can see all famous Quotes. We use An API.",
-        img : quoteApp,
-        seeLive : 'https://rakeshsahni.github.io/Quote-App/',
-        github : 'https://github.com/rakeshsahni/Quote-App',
     },
     {
         id : '1',

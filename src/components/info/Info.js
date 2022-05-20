@@ -21,7 +21,7 @@ function Info() {
       <div className="info-content">
         <div className="my-name">MY NAME IS RAKESH SAHNI.</div>
         <h1 className="mldl">
-          I Am Machine Learning and Deep Learning Professional with 2+ years of hands on experience in
+          I Am Machine Learning and Deep Learning Professional with 3+ years of hands on experience in
           <br /> 
           Machine Learning Algorithms, ANN, CNN, RNN, Python, SQL, Python Opps.
         </h1>
